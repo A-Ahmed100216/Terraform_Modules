@@ -1,5 +1,5 @@
 # Terraform Modules
-* We can abstract complexity using Modules
+* We can abstract complexity using Modules.
 * We can separate code into separate files and then call these files in the main configuration file by directing to the location.
 ```hcl
 module "app" {
